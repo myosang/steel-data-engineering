@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 **Please specify the correct data file directory in data reading part before running notebooks.**
    - `task1_pipeline.ipynb` → outputs `inventory_dataset.csv`  
-   - `task2_pipeline.ipynb` → outputs in the code and `top3.csv`  
+   - `task2_pipeline.ipynb` → outputs in the markdown below the Task B.1 and Task B.2.  
 
 ## Tasks Completed
 
