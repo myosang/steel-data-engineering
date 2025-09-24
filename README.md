@@ -45,8 +45,10 @@ pip install -r requirements.txt
 
 ### Run via Notebook
 1. Launch Jupyter Lab or Jupyter Notebook.  
-2. Navigate to the `notebooks/` folder.  
+2. Navigate to the `notebooks/` folder.
 3. Execute (Run all):
+
+**Please specify the correct data file directory in data reading part before running notebooks.**
    - `task1_pipeline.ipynb` → outputs `inventory_dataset.csv`  
    - `task2_pipeline.ipynb` → outputs in the code and `top3.csv`  
 
